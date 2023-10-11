@@ -1,3 +1,5 @@
+//This code implements basic selection sort algorithm 
+//It has time complexity O(n^2) and space complexity constant O(1)
 #include <iostream>
     using namespace std;
     void readArray(int arr[], int n)
