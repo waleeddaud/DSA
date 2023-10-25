@@ -23,8 +23,6 @@ int main()
     vector<int> arr1 = {3, 5, 7, 1, 2};
     vector<int> arr2 = {3, 1, 7, 1, 2};
     cout << boolalpha << sortedRotated(arr1) << endl;
-    ;
     cout << boolalpha << sortedRotated(arr2) << endl;
-    ;
     return 0;
 }
