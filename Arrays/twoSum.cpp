@@ -1,5 +1,6 @@
 //CodeStudio problem
-/*You are given an array and  var sum =5, you have to find a pair of array values adding to give the sum */
+/*You are given an array and  var sum =5, you have to find a pair of
+ array values adding to give the sum */
 #include<iostream>
 using namespace std;
 int main(){
