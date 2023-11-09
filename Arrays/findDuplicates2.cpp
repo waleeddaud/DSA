@@ -10,6 +10,6 @@ int main(){
     for(int i=1;i<size;i++){
         ans =ans^i;
     }
-    cout<<"the numbers repeated twice are : "<< ans<<endl;
+    cout<<"the numbers repeated twice is : "<< ans<<endl;
     return 0;
 }
