@@ -1,3 +1,5 @@
+//This is the code for merge sort and it has the time complexity of O(n log n)
+//It is implemented using recursion
 #include<iostream>
 #include <vector>
 using namespace std;
