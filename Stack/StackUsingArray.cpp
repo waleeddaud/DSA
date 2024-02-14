@@ -1,3 +1,5 @@
+//This is the simple implementation of stacks using arrays
+//The push,pop,topElemts are found in time complexity O(1)
 #include<iostream>
 using namespace std;
 class Stack{
@@ -18,7 +20,6 @@ class Stack{
         }
         void push(int data){
             if(top==size-1){
-                top--;
                 cout<<"Stack is Full\n";
             }
             else{
