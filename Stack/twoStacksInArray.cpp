@@ -15,7 +15,7 @@ public:
     // Initialize TwoStack.
     TwoStack(int s) {
         // Write your code here.
-        this->size = s;
+        this->size=s;
         arr = new int [s];
         top1 = -1;
         top2 = s;
