@@ -1,5 +1,7 @@
 /*LeetCode Question
-Add two Numbers represented by linked list */
+Add two Numbers represented by linked list
+Time Complexity O(N+M) 
+Space Complexity O(max(N,M))*/
 
 // Definition for singly-linked list.
   struct ListNode {
