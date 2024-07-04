@@ -1,3 +1,5 @@
+//Problem avaible on geeks for geeks
+//Check for each node if sum of left and right subtree is equal or not
 #include<iostream>
 #include<utility>
 struct Node
