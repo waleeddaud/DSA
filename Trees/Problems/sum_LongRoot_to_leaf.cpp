@@ -56,6 +56,6 @@ int main()
     root ->right->left = new Node (30);
     root ->right->right = new Node (35);
 
- 
+    cout<<sumOfLongRootToLeafPath(root) ;
 return 0;
 }
