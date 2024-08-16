@@ -2,10 +2,12 @@
 // Linear ordereing of vertices such that for every edge u-v , u appear before v
 //Topological sort using BFS (kahn's Algorithm)
 //Find this problem on Geeks for Geeks 
-#include<stack>
-#include<vector>
-#include<map>
-using namespace std;
+
+//Steps
+//First compute all the indegrees of all nodes
+//Push the vertex with indegree 0 in queue
+//update the indegrees while you pop an element from queue
+//ONly if the indegree is zero then push element in queue
 
 #include<queue>
 #include<vector>
