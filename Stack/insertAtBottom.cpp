@@ -1,7 +1,6 @@
-class Solution{
 #include<iostream>
 #include<stack>
-public:
+using namespace std;
     void insert(stack<int> &st,int x){
         if(st.empty()){
             st.push(x);
@@ -16,4 +15,3 @@ public:
         insert(st,x);
         return st;
     }
-};
