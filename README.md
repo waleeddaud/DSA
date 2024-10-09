@@ -74,8 +74,8 @@ This repository includes solutions and implementations for the following topics:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/DSA-Repo.git
-   cd DSA-Repo
+   git clone https://github.com/waleeddaud/DSA.git
+   cd DSA
    ```
 
 2. **Navigate to the specific topic**:
@@ -97,7 +97,7 @@ This repository includes solutions and implementations for the following topics:
 ## File Structure
 
 ```bash
-DSA-Repo/
+DSA/
 │
 ├── Arrays/
 │   ├── insertion.cpp
