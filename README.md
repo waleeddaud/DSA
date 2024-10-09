@@ -10,7 +10,6 @@ This repo contains my journey through foundational DSA concepts, including imple
 - [How to Use](#how-to-use)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -149,13 +148,5 @@ Contributions are welcome! If you'd like to add more solutions or optimize exist
    git push origin feature-branch
    ```
 5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Happy coding! 😊 If you have any questions, feel free to reach out.
